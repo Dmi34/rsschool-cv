@@ -20,3 +20,12 @@ About a year ago I started to develop in different programming directions (big d
 * VS Code
 * QT
 * Algorithms
+## Experience
+I have no impressive practical experience. I can only mention data analysis with *Python* and simple *C++* applications, but I hope to have a serious project soon.
+## Education
+* Gymnasius
+* Self-education
+* Yandex intensives: big data (in progress)
+* JavaScript/Front-end 2022Q3 (in progress)
+## English
+**B1**
