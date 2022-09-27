@@ -1,5 +1,6 @@
 # Dmitry Antashkevich
 ## Contacts
+
 * **Location** Mogilev, Belarus
 * **Phone** +375 29 824 40 91
 * **Email** antashkevich.dima@yandex.ru
@@ -13,6 +14,7 @@ Dmitry Antashkevich, 17 y.o., school student. Three years ago I’ve become pass
 About a year ago I started to develop in different programming directions (big data, back-end, etc.) and recently decided to learn basic front-end and web-programming.
 
 ## Skills
+
 * C++
 * Python
 * HTML
@@ -41,6 +43,7 @@ function calculate() {
 I have no impressive practical experience. I can only mention data analysis with *Python* and simple *C++* applications, but I hope to have a serious project soon.
 
 ## Education
+
 * Gymnasium
 * Self-education
 * Yandex intensives: big data (in progress)
